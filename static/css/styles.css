@@ -65,8 +65,13 @@ header.site nav.navbar {
   border-left: none;
 }
 
+
 header.site .navbar-default .navbar-nav>li>a {
-  font-size: .8rem;
+  font-size: 1.4rem;
+}
+
+.navbar-brand {
+  font-size: 1.4rem;
 }
 
 header.page-title {
@@ -204,6 +209,14 @@ article.single aside .section {
   margin-bottom: 2rem;
 }
 
+.panel-title>h4 {
+  display: inline; 
+  margin-left: 0.5rem;
+}
+.list-group-item>a {
+  margin-left: 0.5em; 
+}
+
 footer.site {
   padding: 3rem 0;
 }
@@ -211,6 +224,5 @@ footer.site {
 footer.site p {
   font-size: .8rem;
   margin-bottom: .5rem;
-  color: #999;
+  color: #999; 
 }
-
