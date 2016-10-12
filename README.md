@@ -1,4 +1,4 @@
-![screenshot](https://github.com/lovelock/hugo_theme_tech/blob/master/images/screenshot.png)
+![screenshot](https://github.com/lovelock/hugo_theme_tech/blob/master/screenshot.png)
 
 # 功能
 
