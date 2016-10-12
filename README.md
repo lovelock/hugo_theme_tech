@@ -1,4 +1,4 @@
-![screenshot](https://github.com/lovelock/hugo_theme_tech/blob/master/screenshot.PNG)
+![screenshot](https://github.com/lovelock/hugo_theme_tech/blob/master/images/screenshot.png)
 
 # 功能
 
@@ -54,6 +54,6 @@ Contents here
 
 # 联系我
 
-个人博客: http://unixera.com
-GitHub主页：https://github.com/lovelock
+个人博客: http://unixera.com  
+GitHub主页：https://github.com/lovelock  
 新浪微博：@UnixAgain
