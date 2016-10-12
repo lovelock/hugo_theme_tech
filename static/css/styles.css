@@ -205,6 +205,11 @@ article.single aside {
   }
 }
 
+table th, table td {
+    padding: 5px;
+    border: 1px solid #ddd;
+}
+
 article.single aside .section {
   margin-bottom: 2rem;
 }
