@@ -1,6 +1,6 @@
 +++
 isCJKLanguage = true
 tags = ["", ""]
-drfat = true
-categories = ["", ""]
+draft = true
+categories = [""]
 +++
